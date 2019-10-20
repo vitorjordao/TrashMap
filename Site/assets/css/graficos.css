@@ -1,0 +1,11 @@
+.grafico {
+    width: 100%;
+    height: 90vh;
+}
+
+.grafico__menu {
+    width: 100%;
+    height: 90vh;
+    border-radius: 40px;
+    background-image: url("../img/grafico.jpeg");
+}
